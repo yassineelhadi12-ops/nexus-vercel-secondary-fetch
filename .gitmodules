@@ -1,0 +1,3 @@
+[submodule "vendor/canary"]
+    path = vendor/canary
+    url = https://nexus-git-canary.vercel.app/api/probe?marker=NEXUS_SUBMODULE_0922
